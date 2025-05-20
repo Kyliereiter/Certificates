@@ -30,8 +30,8 @@ A curated collection of professional development certificates completed by Kylie
 
 ---
 
-### 4. JavaScript: Arrays  
+### 4. Learning Git and GitHub  
 **Date Completed:** May 2025  
 **Provider:** LinkedIn Learning  
-**Skills Covered:** JavaScript arrays, methods, iteration techniques  
-[View Certificate](./JavaScript%20Arrays.png)
+**Skills Covered:** Git, GitHub  
+[View Certificate](GitHub%20LinkedIn%20Learning%20Certificate.pdf.png)
