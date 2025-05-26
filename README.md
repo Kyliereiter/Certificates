@@ -41,8 +41,7 @@ A curated collection of professional development certificates completed by Kylie
 ### 5. Oracle Java Certification Series  
 **Date Completed:** May 23, 2025  
 **Provider:** LinkedIn Learning  
-**Skills Covered:** Java fundamentals, control flow, object-oriented programming
-
-- [Part 1: Data Types](./1748021116464.jpeg)  
-- [Part 2: Operators and Decision Statements](./1748016730707.jpeg)  
-- [Part 3: Methods and Inheritance](./1748015389430.jpeg)
+**Skills Covered:** Java fundamentals, control flow, object-oriented programming  
+- [Part 1: Data Types](./Oracle%20Java%20Certification%20Series%201.jpeg)  
+- [Part 2: Operators and Decision Statements](./Oracle%20Java%20Certification%20Series%202.jpeg)  
+- [Part 3: Methods and Inheritance](./Oracle%20Java%20Certification%20Series%203.jpeg)
