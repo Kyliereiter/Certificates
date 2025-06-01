@@ -45,3 +45,12 @@ A curated collection of professional development certificates completed by Kylie
 - [Part 1: Data Types](./Oracle%20Java%20Certification%20Series%201.jpeg)  
 - [Part 2: Operators and Decision Statements](./Oracle%20Java%20Certification%20Series%202.jpeg)  
 - [Part 3: Methods and Inheritance](./Oracle%20Java%20Certification%20Series%203.jpeg)
+
+---
+
+6. Git Essential Training (2023)
+
+**Date Completed:** May 28, 2025  
+**Provider:** LinkedIn Learning  
+**Skills Covered:** Git fundamentals, version control, branching, merging  
+[View Certificate](https://github.com/Kyliereiter/Certificates/blob/main/git-essential-training-2023.png?raw=true)
