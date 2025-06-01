@@ -63,3 +63,13 @@ A curated collection of professional development certificates completed by Kylie
 **Provider:** LinkedIn Learning  
 **Skills Covered:** Algorithm design, data structures, artificial intelligence (AI)  
 [View Certificate](https://github.com/Kyliereiter/Certificates/blob/main/programming-foundations-algorithms.png?raw=true)
+
+---
+
+### 8. Career Essentials in Software Development
+
+**Date Completed:** May 27, 2025  
+**Provider:** LinkedIn Learning & Microsoft  
+**Skills Covered:** Programming, Software Development  
+[View Certificate](Career%20Essentials%20in%20Software%20Development.png)
+
