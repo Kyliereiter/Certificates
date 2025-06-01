@@ -48,9 +48,18 @@ A curated collection of professional development certificates completed by Kylie
 
 ---
 
-6. Git Essential Training (2023)
+### 6. Git Essential Training (2023)
 
 **Date Completed:** May 28, 2025  
 **Provider:** LinkedIn Learning  
 **Skills Covered:** Git fundamentals, version control, branching, merging  
 [View Certificate](https://github.com/Kyliereiter/Certificates/blob/main/git-essential-training-2023.png?raw=true)
+
+---
+
+### 7. Programming Foundations: Algorithms
+
+**Date Completed:** May 27, 2025  
+**Provider:** LinkedIn Learning  
+**Skills Covered:** Algorithm design, data structures, artificial intelligence (AI)  
+[View Certificate](https://github.com/Kyliereiter/Certificates/blob/main/programming-foundations-algorithms.png?raw=true)
